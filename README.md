@@ -1,3 +1,3 @@
 ## Hi there! 👋
 
-![Image alt text](ms.gif)
+![Image alt text](mc.gif)
