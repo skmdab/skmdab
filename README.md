@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="glitch.gif" width="1000" height="450" alt="My GIF">
+  <img src="gs.gif" width="1000" height="450" alt="My GIF">
 </p>
 
 
