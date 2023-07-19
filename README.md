@@ -4,7 +4,7 @@
 
 
 
-<p align="center"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.logolynx.com/images/logolynx/68/683f75d4c40a5b7c2f1ff598d2ed942b.png" alt="docker" width="100" height="100"/> </a>
+<p align="center"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.logolynx.com/images/logolynx/68/683f75d4c40a5b7c2f1ff598d2ed942b.png" alt="docker" width="300" height="300"/> </a>
 
 
 
